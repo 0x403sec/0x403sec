@@ -5,14 +5,14 @@
 
   <p>
     I work at the intersection of <strong>cybersecurity, offensive security, and artificial intelligence</strong>,
-    focusing on how modern systems fail — and how to detect, exploit, and secure them.
+    focusing on how modern systems fail, and how to detect, exploit, and secure them.
   </p>
 
 </div>
 
 <hr />
 
-<h2>🧠 Professional Focus</h2>
+<h2>🫴 Professional Focus</h2>
 
 <ul>
   <li><strong>AI Security Research</strong> : Deepfake detection, media provenance, adversarial risk analysis</li>
@@ -27,7 +27,7 @@ with monitoring, detection, and research-driven analysis.
 
 <hr />
 
-<h2>🔍 What I’m Actively Working On</h2>
+<h2>🫴 What I’m Actively Working On</h2>
 
 <ul>
   <li>
@@ -55,7 +55,7 @@ with monitoring, detection, and research-driven analysis.
 
 <hr />
 
-<h2>🧠 Research Interests</h2>
+<h2>🫴 Research Interests</h2>
 
 <ul>
   <li>
@@ -65,7 +65,7 @@ with monitoring, detection, and research-driven analysis.
 
   <li>
     <strong>AI-Driven Social Engineering & Threats</strong><br />
-    Studying how AI enables scalable phishing, impersonation, and misinformation — and how to detect and mitigate it.
+    Studying how AI enables scalable phishing, impersonation, and misinformation, and how to detect and mitigate it.
   </li>
 
   <li>
@@ -92,7 +92,7 @@ with an emphasis on practical, real-world impact.
 
 <hr />
 
-<h2>🛠 Technical Skill Set</h2>
+<h2>🫴 Technical Skill Set</h2>
 
 <h3>Offensive Security</h3>
 <ul>
@@ -120,7 +120,7 @@ with an emphasis on practical, real-world impact.
 
 <hr />
 
-<h2>🧪 Tools & Technologies</h2>
+<h2>🫴 Tools & Technologies</h2>
 
 <ul>
   <li><strong>Security:</strong> Splunk, Wireshark, Nmap, Burp Suite, Metasploit</li>
@@ -133,7 +133,7 @@ with an emphasis on practical, real-world impact.
 
 <hr />
 
-<h2>📊 GitHub Activity</h2>
+<h2>🫴 GitHub Activity</h2>
 
 <p>
 I use GitHub primarily for <strong>collaborating on ongoing private projects</strong>, security research, and applied development work.
@@ -141,35 +141,6 @@ This profile will increasingly host <strong>CTF lab writeups, penetration testin
 reflecting a focus on practical learning, collaboration, and real-world problem solving rather than vanity commits.
 </p>
 
-<div align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=0x403sec&show_icons=true&hide=issues,prs&theme=dark&hide_border=true"
-    height="160"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x403sec&layout=compact&theme=dark&hide_border=true"
-    height="160"
-    alt="Top Languages"
-  />
-
-</div>
-
-< hr />
-
-<h2>📌 Philosophy</h2>
-
-<blockquote>
-  “You can’t secure what you don’t understand — and you can’t defend what you can’t detect.”
-</blockquote>
-
-<p>
-My work is driven by understanding how systems break in the real world,
-how attackers abuse trust and automation, and how defenders can build resilient,
-detectable, and intelligent security controls.
-</p>
 
 <hr />
 
